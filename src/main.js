@@ -15,4 +15,4 @@ while (guess !== myGuess) {
     }
 }
 
-alert(`Well done! You got it in ${guesses}!`);
+alert(`Well done! You got it in ${guesses} guesses!`);
